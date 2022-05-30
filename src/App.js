@@ -1,9 +1,14 @@
+import React from 'react';
 import './App.css';
+import SingleQuote from './components/SingleQuote';
+
+
+
 
 function App() {
   return (
     <>
-    <h1>Does this work</h1>
+    <SingleQuote />
     </>
 
   );
